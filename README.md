@@ -34,3 +34,12 @@ A real-time, gesture-controlled arcade slicing game built in Python as a final-y
    ```bash
    git clone [https://github.com/manojkumarachari0011-debug/Gesture-Controlled-Fruit-Slicer.git](https://github.com/manojkumarachari0011-debug/Gesture-Controlled-Fruit-Slicer.git)
    cd Gesture-Controlled-Fruit-Slicer
+
+   ## How to Play
+1. Clone or download this repository.
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+##bash
+  python main.py
