@@ -40,6 +40,5 @@ A real-time, gesture-controlled arcade slicing game built in Python as a final-y
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-
-##bash
-  python main.py
+3.bash
+   python main.py
